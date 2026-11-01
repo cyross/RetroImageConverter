@@ -66,3 +66,21 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio
+.vs/
+bin/
+obj/
+x64/
+*.user
+*.vcxproj.user
+*.ipch
+*.VC.db
+*.VC.opendb
+*.aps
+*.sdf
+*.opensdf
+*.tlog
+*.idb
+*.iobj
+*.ipdb
